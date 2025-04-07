@@ -3,7 +3,7 @@
 ## **Project Overview** 🚀
 This project demonstrates how to build a **Cloud-Native Resource Monitoring Application** using **Python, Flask, and Kubernetes**. The app provides real-time system metrics using the `psutil` library and is deployed on **Amazon EKS (Elastic Kubernetes Service)**.
 
-## **What You Will Learn 🤯**
+
 
 1. **Python**: Developing a Monitoring Application using Flask and `psutil`.
 2. **Running a Python App Locally**.
@@ -16,7 +16,7 @@ This project demonstrates how to build a **Cloud-Native Resource Monitoring Appl
 5. **Kubernetes**: Deploying the app on **Amazon EKS**.
 6. **Automating Kubernetes Deployments and Services** using Python.
 
-## **Prerequisites** ✅
+## **Prerequisites** 
 
 Before starting, make sure you have:
 
@@ -201,9 +201,9 @@ Now, access the application at **[http://localhost:5000/](http://localhost:5000/
 ## **Conclusion** 🎉
 
 By following this guide, you have:
-✅ Built a **Cloud-Native Resource Monitoring App** using Python and Flask.  
-✅ Containerized the app using **Docker** and pushed the image to **AWS ECR**.  
-✅ Deployed the app on **Amazon EKS** using **Kubernetes manifests and Python client**.  
+ Built a **Cloud-Native Resource Monitoring App** using Python and Flask.  
+ Containerized the app using **Docker** and pushed the image to **AWS ECR**.  
+ Deployed the app on **Amazon EKS** using **Kubernetes manifests and Python client**.  
 
-Enjoy your journey into **Cloud Native Development!** 🚀
+
 
