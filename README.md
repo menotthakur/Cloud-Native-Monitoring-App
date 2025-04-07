@@ -1,6 +1,6 @@
 # **Cloud Native Resource Monitoring Python App on Kubernetes**
 
-## **Project Overview** 🚀
+## **Project Overview** 
 This project demonstrates how to build a **Cloud-Native Resource Monitoring Application** using **Python, Flask, and Kubernetes**. The app provides real-time system metrics using the `psutil` library and is deployed on **Amazon EKS (Elastic Kubernetes Service)**.
 
 
